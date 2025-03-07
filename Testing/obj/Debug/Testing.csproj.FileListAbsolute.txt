@@ -1,0 +1,10 @@
+D:\01. Shalika Office\Testing\Testing\bin\Debug\Testing.exe.config
+D:\01. Shalika Office\Testing\Testing\bin\Debug\Testing.exe
+D:\01. Shalika Office\Testing\Testing\bin\Debug\Testing.pdb
+D:\01. Shalika Office\Testing\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+D:\01. Shalika Office\Testing\Testing\obj\Debug\Testing.csproj.SuggestedBindingRedirects.cache
+D:\01. Shalika Office\Testing\Testing\obj\Debug\Testing.Properties.Resources.resources
+D:\01. Shalika Office\Testing\Testing\obj\Debug\Testing.csproj.GenerateResource.cache
+D:\01. Shalika Office\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+D:\01. Shalika Office\Testing\Testing\obj\Debug\Testing.exe
+D:\01. Shalika Office\Testing\Testing\obj\Debug\Testing.pdb
