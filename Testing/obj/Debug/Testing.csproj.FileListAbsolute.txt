@@ -8,3 +8,13 @@ D:\01. Shalika Office\Testing\Testing\obj\Debug\Testing.csproj.GenerateResource.
 D:\01. Shalika Office\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
 D:\01. Shalika Office\Testing\Testing\obj\Debug\Testing.exe
 D:\01. Shalika Office\Testing\Testing\obj\Debug\Testing.pdb
+D:\WHATSAPP GIT\GiTesting\Testing\bin\Debug\Testing.exe.config
+D:\WHATSAPP GIT\GiTesting\Testing\bin\Debug\Testing.exe
+D:\WHATSAPP GIT\GiTesting\Testing\bin\Debug\Testing.pdb
+D:\WHATSAPP GIT\GiTesting\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+D:\WHATSAPP GIT\GiTesting\Testing\obj\Debug\Testing.Form1.resources
+D:\WHATSAPP GIT\GiTesting\Testing\obj\Debug\Testing.Properties.Resources.resources
+D:\WHATSAPP GIT\GiTesting\Testing\obj\Debug\Testing.csproj.GenerateResource.cache
+D:\WHATSAPP GIT\GiTesting\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+D:\WHATSAPP GIT\GiTesting\Testing\obj\Debug\Testing.exe
+D:\WHATSAPP GIT\GiTesting\Testing\obj\Debug\Testing.pdb
