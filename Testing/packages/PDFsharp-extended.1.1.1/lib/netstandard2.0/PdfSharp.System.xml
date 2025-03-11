@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PdfSharp.System</name>
+    </assembly>
+    <members>
+        <member name="T:PdfSharp.Diagnostics.NRT">
+            <summary>
+            Helper class for code migration to nullable reference types.
+            </summary>
+        </member>
+        <member name="M:PdfSharp.Diagnostics.NRT.ThrowOnNull(System.String)">
+            <summary>
+            Throws an InvalidOperationException because an expression which must not be null is null.
+            </summary>
+            <param name="message">The message.</param>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+        <member name="M:PdfSharp.Diagnostics.NRT.ThrowOnNull``1(System.String)">
+            <summary>
+            Throws InvalidOperationException. Use this function during the transition from older C# code
+            to new code that uses nullable reference types.
+            </summary>
+            <typeparam name="TResult">The type this function must return to be compiled correctly.</typeparam>
+            <param name="message">An optional message used for the exception.</param>
+            <returns>Nothing, always throws.</returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+        <member name="M:PdfSharp.Diagnostics.NRT.ThrowOnNull``2(System.String)">
+            <summary>
+            Throws InvalidOperationException. Use this function during the transition from older C# code
+            to new code that uses nullable reference types.
+            </summary>
+            <typeparam name="TResult">The type this function must return to be compiled correctly.</typeparam>
+            <typeparam name="TType">The type of the object that is null.</typeparam>
+            <param name="message">An optional message used for the exception.</param>
+            <returns>Nothing, always throws.</returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+        <member name="T:PdfSharp.Internal.TH">
+            <summary>
+            </summary>
+        </member>
+        <member name="T:PdfSharp.Logging.LogHost">
+            <summary>
+            HACK to use logging without a hosted app.
+            </summary>
+        </member>
+        <member name="P:PdfSharp.Logging.LogHost.Factory">
+            <summary>
+            Gets or sets the logger factory for PDFsharp.
+            </summary>
+        </member>
+        <member name="P:PdfSharp.Logging.LogHost.Logger">
+            <summary>
+            Gets the global PDFsharp logger.
+            </summary>
+        </member>
+        <member name="M:PdfSharp.Logging.LogHost.CreateLogger">
+            <summary>
+            Creates a logger without a category.
+            </summary>
+        </member>
+        <member name="M:PdfSharp.Logging.LogHost.CreateLogger``1">
+            <summary>
+            Creates a logger with the full name of the given type as category.
+            </summary>
+        </member>
+    </members>
+</doc>
